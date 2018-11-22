@@ -3,14 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "sever.js",
-  "scripts": {
-    "start": "node sever.js"
-  },
   "dependencies": {
     "json-server": "^0.14.0"
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node sever.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
