@@ -39,17 +39,17 @@
   ],
   "user": [
     {
-      "id_user": "1",
+      "id": "1",
       "username": "Admin",
-	    "password": "123456",
-	    "fullname": "Administrator",
-	    "avatar": "teoteoteo.png",
+      "password": "123456",
+      "fullname": "Administrator",
+      "avatar": "teoteoteo.png",
       "phone": "01222088643",
       "id_donvi": "",
-	    "id_role": "1"
-	  },
+      "id_role": "1"
+    },
     {
-      "id_user": "2",
+      "id": "2",
       "username": "abc1234",
       "password": "123456",
       "fullname": "Lê Văn B",
@@ -59,7 +59,7 @@
       "id_role": "2"
     },
     {
-      "id_user": "3",
+      "id": "3",
       "username": "thuhien1234",
       "password": "123456",
       "fullname": "Hồ Thị Thu Hiền",
@@ -69,7 +69,7 @@
       "id_role": "1"
     },
     {
-      "id_user": "4",
+      "id": "4",
       "username": "user1",
       "password": "123456",
       "fullname": "Nguyễn User 1",
@@ -79,7 +79,7 @@
       "id_role": "3"
     },
     {
-      "id_user": "5",
+      "id": "5",
       "username": "user2",
       "password": "123456",
       "fullname": "Huỳnh User 3",
@@ -89,213 +89,243 @@
       "id_role": "2"
     },
     {
-      "id_user": "5",
+      "id": "6",
       "username": "user2",
       "password": "123456",
       "fullname": "Huỳnh User 3",
       "avatar": "teoteoteo.png",
       "phone": "01222088643",
       "id_donvi": "6",
+      "id_role": "2"
+    },
+    {
+      "id": "7",
+      "username": "user2",
+      "password": "123456",
+      "fullname": "Huỳnh User 3",
+      "avatar": "teoteoteo.png",
+      "phone": "01222088643",
+      "id_donvi": "5",
+      "id_role": "2"
+    },
+    {
+      "id": "8",
+      "username": "user2",
+      "password": "123456",
+      "fullname": "Huỳnh User 3",
+      "avatar": "teoteoteo.png",
+      "phone": "01222088643",
+      "id_donvi": "5",
+      "id_role": "2"
+    },
+    {
+      "id": "9",
+      "username": "user2",
+      "password": "123456",
+      "fullname": "Huỳnh User 3",
+      "avatar": "teoteoteo.png",
+      "phone": "01222088643",
+      "id_donvi": "5",
       "id_role": "2"
     }
   ],
   "role": [
     {
-      "id_role": "1",
+      "id": "1",
       "name": "Admin"
     },
     {
-      "id_role": "2",
+      "id": "2",
       "name": "Cán bộ tài sản"
     },
     {
-      "id_role": "3",
+      "id": "3",
       "name": "Trưởng khoa CNTT"
     }
   ],
   "danhmuc": [
     {
-      "id_danhmuc": "1",
+      "id": "1",
       "name": "Thiết bị"
     },
     {
-      "id_danhmuc": "2",
+      "id": "2",
       "name": "Dụng cụ"
     }
   ],
   "loaitaisan": [
     {
-      "id_loaitaisan": "1",
+      "id": "1",
       "name": "Máy chiếu",
-      "id_danhmuc":"1"
+      "id_danhmuc": "1"
     },
     {
-      "id_loaitaisan": "2",
+      "id": "2",
       "name": "Bàn, ghế",
-      "id_danhmuc":"2"
+      "id_danhmuc": "2"
     },
     {
-      "id_loaitaisan": "3",
+      "id": "3",
       "name": "Máy điều hòa",
-      "id_danhmuc":"1"
+      "id_danhmuc": "1"
     },
     {
-      "id_loaitaisan": "4",
+      "id": "4",
       "name": "Cáp VGA",
-      "id_danhmuc":"2"
+      "id_danhmuc": "2"
     },
     {
-      "id_loaitaisan": "5",
+      "id": "5",
       "name": "Bảng",
-      "id_danhmuc":"2"
+      "id_danhmuc": "2"
     }
   ],
   "donvi": [
     {
-      "id_donvi": "1",
+      "id": "1",
       "name": "Phòng đào tạo"
     },
     {
-      "id_donvi": "2",
+      "id": "2",
       "name": "Phòng CTSV"
     },
     {
-      "id_donvi": "3",
+      "id": "3",
       "name": "Khoa CNTT"
     },
     {
-      "id_donvi": "4",
+      "id": "4",
       "name": "Khoa Hóa"
     },
     {
-      "id_donvi": "5",
+      "id": "5",
       "name": "Khoa Điện"
     },
     {
-      "id_donvi": "6",
+      "id": "6",
       "name": "Khoa Cơ khí"
     },
     {
-      "id_donvi": "7",
+      "id": "7",
       "name": "Khoa Kiến trúc"
     },
     {
-      "id_donvi": "8",
+      "id": "8",
       "name": "Khoa Môi trường"
     },
     {
-      "id_donvi": "9",
+      "id": "9",
       "name": "Khoa Quản lý dự án"
     },
     {
-      "id_donvi": "10",
+      "id": "10",
       "name": "Khoa Nhiệt Điện Lạnh"
     },
     {
-      "id_donvi": "11",
+      "id": "11",
       "name": "Khoa Cơ khí"
     }
   ],
   "phong": [
     {
-      "id_phong": "1",
+      "id": "1",
       "name": "E-101",
       "id_donvi": "1"
     },
     {
-      "id_phong": "2",
+      "id": "2",
       "name": "E-102",
       "id_donvi": "3"
     },
     {
-      "id_phong": "3",
+      "id": "3",
       "name": "E-103",
       "id_donvi": "4"
     },
     {
-      "id_phong": "5",
+      "id": "5",
       "name": "E-104",
       "id_donvi": "5"
     },
     {
-      "id_phong": "6",
+      "id": "6",
       "name": "E-105",
       "id_donvi": "6"
     },
     {
-      "id_phong": "7",
+      "id": "7",
       "name": "E-106",
       "id_donvi": "3"
     },
     {
-      "id_phong": "8",
+      "id": "8",
       "name": "E-107",
       "id_donvi": "3"
     },
     {
-      "id_phong": "9",
+      "id": "9",
       "name": "E-108",
       "id_donvi": "2"
     },
     {
-      "id_phong": "10",
+      "id": "10",
       "name": "E-200",
       "id_donvi": "1"
     },
     {
-      "id_phong": "11",
+      "id": "11",
       "name": "E-201",
       "id_donvi": "1"
     },
     {
-      "id_phong": "1",
+      "id": "1",
       "name": "E-202",
       "id_donvi": "2"
     }
   ],
   "nguonkinhphi": [
     {
-      "id_kinhphi": "1",
+      "id": "1",
       "name": "Nhà trường",
-      "tongngansach":200000000,
+      "tongngansach": 200000000,
       "tongchi": 1000000,
       "tongthanhly": 10000
     },
     {
-      "id_kinhphi": "2",
+      "id": "2",
       "name": "Doanh nghiệp FPT",
-      "tongngansach":10000000,
+      "tongngansach": 10000000,
       "tongchi": 1000000,
       "tongthanhly": 700000
     },
     {
-      "id_kinhphi": "3",
+      "id": "3",
       "name": "Thành phố",
-      "tongngansach":200000000,
+      "tongngansach": 200000000,
       "tongchi": 1000000,
       "tongthanhly": 10000
     }
   ],
   "taisan": [
     {
-      "id_taisan": "1",
+      "id": "1",
       "name": "Máy chiếu Sony",
-      "dongia":2000000,
+      "dongia": 2000000,
       "soluong": 23,
       "ngaynhap": "23/7/2018",
       "hansudung": "23/7/2021",
-      "ghichu": "được nhâp từ công ty thiết bị ABC",
+      "ghichu": "Được mua cho khu mới xây ",
       "id_loaitaisan": "1",
       "id_donvi": "2",
       "id_kinhphi": "1",
       "id_phong": "3",
-      "id_user":"1",
+      "id_user": "1",
       "status": 0
     },
     {
-      "id_taisan": "2",
+      "id": "2",
       "name": "Máy chiếu Samsung",
-      "dongia":5000000,
+      "dongia": 5000000,
       "soluong": 11,
       "ngaynhap": "23/7/2018",
       "hansudung": "23/7/2021",
@@ -304,28 +334,28 @@
       "id_donvi": "1",
       "id_kinhphi": "2",
       "id_phong": "1",
-      "id_user":"1",
+      "id_user": "1",
       "status": 0
     },
     {
-      "id_taisan": "3",
+      "id": "3",
       "name": "Bàn Hòa Phát",
-      "dongia":2000000,
+      "dongia": 2000000,
       "soluong": 100,
       "ngaynhap": "23/7/2018",
       "hansudung": "23/7/2021",
-      "ghichu": "được nhâp từ công ty thiết bị ABC",
+      "ghichu": "Hiện tại bàn bị thiếu rất nhiều, nên mua lô này",
       "id_loaitaisan": "2",
       "id_donvi": "1",
       "id_kinhphi": "1",
       "id_phong": "6",
-      "id_user":"2",
+      "id_user": "2",
       "status": 0
     },
     {
-      "id_taisan": "4",
-      "name": "Máy chiếu Sony",
-      "dongia":2000000,
+      "id": "4",
+      "name": "Đồng hồ treo tường",
+      "dongia": 3500000,
       "soluong": 23,
       "ngaynhap": "23/7/2018",
       "hansudung": "23/7/2021",
@@ -334,29 +364,29 @@
       "id_donvi": "2",
       "id_kinhphi": "2",
       "id_phong": "1",
-      "id_user":"1",
+      "id_user": "1",
       "status": 1
     },
     {
-      "id_taisan": "5",
+      "id": "5",
       "name": "Máy chiếu Sony",
-      "dongia":2000000,
+      "dongia": 2000000,
       "soluong": 23,
       "ngaynhap": "23/7/2018",
       "hansudung": "23/7/2021",
       "ghichu": "được nhâp từ công ty thiết bị ABC",
-      "id_loaitaisan": "1",
+      "id_loaitaisan": "4",
       "id_donvi": "2",
       "id_kinhphi": "1",
       "id_phong": "3",
-      "id_user":"2",
+      "id_user": "2",
       "status": 0
     },
     {
-      "id_taisan": "6",
-      "name": "Máy chiếu Sony",
-      "dongia":2000000,
-      "soluong": 23,
+      "id": "6",
+      "name": "Đồng hồ treo tường",
+      "dongia": 6540000,
+      "soluong": 230,
       "ngaynhap": "23/7/2018",
       "hansudung": "23/7/2021",
       "ghichu": "được nhâp từ công ty thiết bị ABC",
@@ -364,13 +394,13 @@
       "id_donvi": "6",
       "id_kinhphi": "3",
       "id_phong": "1",
-      "id_user":"4",
+      "id_user": "4",
       "status": 0
     },
     {
-      "id_taisan": "7",
+      "id": "7",
       "name": "Máy chiếu Sony",
-      "dongia":2000000,
+      "dongia": 6540000,
       "soluong": 23,
       "ngaynhap": "23/7/2018",
       "hansudung": "23/7/2021",
@@ -379,13 +409,13 @@
       "id_donvi": "2",
       "id_kinhphi": "4",
       "id_phong": "3",
-      "id_user":"3",
+      "id_user": "3",
       "status": 0
     },
     {
-      "id_taisan": "8",
+      "id": "8",
       "name": "Máy chiếu Sony",
-      "dongia":2000000,
+      "dongia": 350000,
       "soluong": 23,
       "ngaynhap": "23/7/2018",
       "hansudung": "23/7/2021",
@@ -394,13 +424,13 @@
       "id_donvi": "5",
       "id_kinhphi": "1",
       "id_phong": "1",
-      "id_user":"3",
+      "id_user": "3",
       "status": 0
     },
     {
-      "id_taisan": "9",
+      "id": "9",
       "name": "Máy chiếu Sony",
-      "dongia":2000000,
+      "dongia": 2000000,
       "soluong": 23,
       "ngaynhap": "23/7/2018",
       "hansudung": "23/7/2021",
@@ -409,13 +439,13 @@
       "id_donvi": "2",
       "id_kinhphi": "1",
       "id_phong": "3",
-      "id_user":"7",
+      "id_user": "7",
       "status": 0
     },
     {
-      "id_taisan": "10",
+      "id": "10",
       "name": "Máy chiếu Sony",
-      "dongia":2000000,
+      "dongia": 2000000,
       "soluong": 23,
       "ngaynhap": "23/7/2018",
       "hansudung": "23/7/2021",
@@ -424,139 +454,169 @@
       "id_donvi": "2",
       "id_kinhphi": "2",
       "id_phong": "3",
-      "id_user":"1",
+      "id_user": "1",
+      "status": 1
+    },
+    {
+      "id": "11",
+      "name": "Đồng hồ treo tường",
+      "dongia": 6540000,
+      "soluong": 23,
+      "ngaynhap": "23/7/2018",
+      "hansudung": "23/7/2021",
+      "ghichu": "Mới mua cho năm học mới",
+      "id_loaitaisan": "2",
+      "id_donvi": "2",
+      "id_kinhphi": "2",
+      "id_phong": "2",
+      "id_user": "1",
+      "status": 1
+    },
+    {
+      "id": "12",
+      "name": "Chổi",
+      "dongia": 20000000,
+      "soluong": 21,
+      "ngaynhap": "19/11/2018",
+      "hansudung": "23/11/2022",
+      "ghichu": "Mới mua cho năm học mới",
+      "id_loaitaisan": "2",
+      "id_donvi": "2",
+      "id_kinhphi": "4",
+      "id_phong": "4",
+      "id_user": "3",
       "status": 1
     }
   ],
   "chuyentaisan": [
     {
-      "id_chuyentaisan": "1",
+      "id": "1",
       "ngayCTS": "23/2/2018",
-      "soluong" : 10,
+      "soluong": 10,
       "id_taisan": "1",
-      "id_phong":"3",
-      "id_donvi":"1"
+      "id_phong": "3",
+      "id_donvi": "1"
     },
     {
-      "id_chuyentaisan": "2",
+      "id": "2",
       "ngayCTS": "23/9/2018",
-      "soluong" : 11,
+      "soluong": 11,
       "id_taisan": "2",
-      "id_phong":"2",
-      "id_donvi":"5"
+      "id_phong": "2",
+      "id_donvi": "5"
     },
     {
-      "id_chuyentaisan": "3",
+      "id": "3",
       "ngayCTS": "23/2/2018",
-      "soluong" : 10,
+      "soluong": 10,
       "id_taisan": "1",
-      "id_phong":"1",
-      "id_donvi":"1"
+      "id_phong": "1",
+      "id_donvi": "1"
     },
     {
-      "id_chuyentaisan": "5",
+      "id": "5",
       "ngayCTS": "23/2/2018",
-      "soluong" : 10,
+      "soluong": 10,
       "id_taisan": "3",
-      "id_phong":"3",
-      "id_donvi":"2"
+      "id_phong": "3",
+      "id_donvi": "2"
     },
     {
-      "id_chuyentaisan": "6",
+      "id": "6",
       "ngayCTS": "23/2/2018",
-      "soluong" : 10,
+      "soluong": 10,
       "id_taisan": "1",
-      "id_phong":"3",
-      "id_donvi":"4"
+      "id_phong": "3",
+      "id_donvi": "4"
     },
     {
-      "id_chuyentaisan": "7",
+      "id": "7",
       "ngayCTS": "23/2/2018",
-      "soluong" : 10,
+      "soluong": 10,
       "id_taisan": "2",
-      "id_phong":"3",
-      "id_donvi":"5"
+      "id_phong": "3",
+      "id_donvi": "5"
     },
     {
-      "id_chuyentaisan": "8",
+      "id": "8",
       "ngayCTS": "23/2/2018",
-      "soluong" : 10,
+      "soluong": 10,
       "id_taisan": "1",
-      "id_phong":"1",
-      "id_donvi":"1"
+      "id_phong": "1",
+      "id_donvi": "1"
     },
     {
-      "id_chuyentaisan": "9",
+      "id": "9",
       "ngayCTS": "23/2/2018",
-      "soluong" : 10,
+      "soluong": 10,
       "id_taisan": "2",
-      "id_phong":"3",
-      "id_donvi":"5"
+      "id_phong": "3",
+      "id_donvi": "5"
     }
   ],
   "thanhly": [
     {
-      "id_thanhly": "1",
+      "id": "1",
       "ngayTL": "23/2/2018",
-      "lydo" : 10,
+      "lydo": 10,
       "soluong": 2,
-      "image":"ban.png",
+      "image": "ban.png",
       "status": 1,
-      "id_taisan":"5"
+      "id_taisan": "5"
     },
     {
-      "id_thanhly": "2",
+      "id": "2",
       "ngayTL": "23/2/2018",
-      "lydo" : 10,
+      "lydo": 10,
       "soluong": 13,
-      "image":"ban.png",
+      "image": "ban.png",
       "status": 0,
-      "id_taisan":"2"
+      "id_taisan": "2"
     },
     {
-      "id_thanhly": "3",
+      "id": "3",
       "ngayTL": "23/2/2018",
-      "lydo" : 10,
+      "lydo": 10,
       "soluong": 20,
-      "image":"ghe.png",
+      "image": "ghe.png",
       "status": 2,
-      "id_taisan":"2"
+      "id_taisan": "2"
     },
     {
-      "id_thanhly": "4",
+      "id": "4",
       "ngayTL": "23/2/2018",
-      "lydo" : 10,
+      "lydo": 10,
       "soluong": 2,
-      "image":"ban.png",
+      "image": "ban.png",
       "status": 1,
-      "id_taisan":"5"
+      "id_taisan": "5"
     },
     {
-      "id_thanhly": "5",
+      "id": "5",
       "ngayTL": "23/2/2018",
-      "lydo" : 10,
+      "lydo": 10,
       "soluong": 2,
-      "image":"ban.png",
+      "image": "ban.png",
       "status": 0,
-      "id_taisan":"1"
+      "id_taisan": "1"
     },
     {
-      "id_thanhly": "6",
+      "id": "6",
       "ngayTL": "23/2/2018",
-      "lydo" : 10,
+      "lydo": 10,
       "soluong": 2,
-      "image":"ban.png",
+      "image": "ban.png",
       "status": 1,
-      "id_taisan":"2"
+      "id_taisan": "2"
     },
     {
-      "id_thanhly": "7",
+      "id": "7",
       "ngayTL": "23/2/2018",
-      "lydo" : 10,
+      "lydo": 10,
       "soluong": 12,
-      "image":"ban.png",
+      "image": "ban.png",
       "status": 1,
-      "id_taisan":"3"
+      "id_taisan": "3"
     }
   ]
 }
