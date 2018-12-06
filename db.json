@@ -171,14 +171,39 @@
     },
     {
       "id": "4",
-      "name": "Cáp VGA",
+      "name": "Cáp nối",
       "id_danhmuc": "2"
     },
     {
       "id": "5",
       "name": "Bảng",
       "id_danhmuc": "2"
-    }
+	},
+	{
+		"id": "6",
+		"name": "Chổi",
+		"id_danhmuc": "2"
+	},
+	{
+		"id": "7",
+		"name": "Tủ lạnh",
+		"id_danhmuc": "1"
+	},
+	{
+		"id": "8",
+		"name": "Máy pha cà phê",
+		"id_danhmuc": "1"
+	},
+	{
+		"id": "9",
+		"name": "TiVi",
+		"id_danhmuc": "1"
+	},
+	{
+		"id": "10",
+		"name": "Đèn",
+		"id_danhmuc": "1"
+	}
   ],
   "donvi": [
     {
@@ -235,37 +260,37 @@
     {
       "id": "2",
       "name": "E-102",
-      "id_donvi": "3"
+      "id_donvi": "1"
     },
     {
       "id": "3",
       "name": "E-103",
-      "id_donvi": "4"
+      "id_donvi": "1"
     },
     {
       "id": "5",
-      "name": "E-104",
+      "name": "B-104",
       "id_donvi": "5"
     },
     {
       "id": "6",
-      "name": "E-105",
+      "name": "D-105",
       "id_donvi": "6"
     },
     {
       "id": "7",
       "name": "E-106",
-      "id_donvi": "3"
+      "id_donvi": "1"
     },
     {
       "id": "8",
       "name": "E-107",
-      "id_donvi": "3"
+      "id_donvi": "1"
     },
     {
       "id": "9",
       "name": "E-108",
-      "id_donvi": "2"
+      "id_donvi": "1"
     },
     {
       "id": "10",
@@ -278,10 +303,30 @@
       "id_donvi": "1"
     },
     {
-      "id": "1",
+      "id": "12",
       "name": "E-202",
-      "id_donvi": "2"
-    }
+      "id_donvi": "1"
+	},
+	{
+		"id": "13",
+		"name": "A-202",
+		"id_donvi": "2"
+	},
+	{
+		"id": "14",
+		"name": "A-202",
+		"id_donvi": "2"
+	},
+	{
+		"id": "15",
+		"name": "C-102",
+		"id_donvi": "3"
+	},
+	{
+		"id": "16",
+		"name": "F-102",
+		"id_donvi": "4"
+	}
   ],
   "nguonkinhphi": [
     {
@@ -506,7 +551,7 @@
   "chuyentaisan": [
     {
       "id": "1",
-      "ngayCTS": "23/2/2018",
+      "ngayCTS": "2017-12-31",
       "soluong": 10,
       "id_taisan": "1",
       "id_phong": "3",
@@ -514,7 +559,7 @@
     },
     {
       "id": "2",
-      "ngayCTS": "23/9/2018",
+      "ngayCTS": "2017-12-31",
       "soluong": 11,
       "id_taisan": "2",
       "id_phong": "2",
@@ -522,7 +567,7 @@
     },
     {
       "id": "3",
-      "ngayCTS": "23/2/2018",
+      "ngayCTS": "2017-12-31",
       "soluong": 10,
       "id_taisan": "1",
       "id_phong": "1",
@@ -530,7 +575,7 @@
     },
     {
       "id": "5",
-      "ngayCTS": "23/2/2018",
+      "ngayCTS": "2017-12-31",
       "soluong": 10,
       "id_taisan": "3",
       "id_phong": "3",
@@ -538,7 +583,7 @@
     },
     {
       "id": "6",
-      "ngayCTS": "23/2/2018",
+      "ngayCTS": "2017-12-31",
       "soluong": 10,
       "id_taisan": "1",
       "id_phong": "3",
@@ -546,7 +591,7 @@
     },
     {
       "id": "7",
-      "ngayCTS": "23/2/2018",
+      "ngayCTS": "2018-5-1",
       "soluong": 10,
       "id_taisan": "2",
       "id_phong": "3",
@@ -554,7 +599,7 @@
     },
     {
       "id": "8",
-      "ngayCTS": "23/2/2018",
+      "ngayCTS": "2018-5-1",
       "soluong": 10,
       "id_taisan": "1",
       "id_phong": "1",
@@ -562,7 +607,7 @@
     },
     {
       "id": "9",
-      "ngayCTS": "23/2/2018",
+      "ngayCTS": "2018-5-1",
       "soluong": 10,
       "id_taisan": "2",
       "id_phong": "3",
@@ -572,17 +617,17 @@
   "thanhly": [
     {
       "id": "1",
-      "ngayTL": "23/2/2018",
+      "ngayTL": "2018-5-1",
       "lydo": 10,
       "soluong": 2,
-      "image": "ban.png",
+      "image": "maychieu.png",
       "status": 1,
       "id_taisan": "5"
     },
     {
       "id": "2",
-      "ngayTL": "23/2/2018",
-      "lydo": 10,
+      "ngayTL": "2018-9-5",
+      "lydo": "Không còn dùng được nữa chớ chi =))",
       "soluong": 13,
       "image": "ban.png",
       "status": 0,
@@ -590,8 +635,8 @@
     },
     {
       "id": "3",
-      "ngayTL": "23/2/2018",
-      "lydo": 10,
+      "ngayTL": "2018-12-1",
+      "lydo": "Không còn dùng được nữa chớ chi =))",
       "soluong": 20,
       "image": "ghe.png",
       "status": 2,
@@ -599,8 +644,8 @@
     },
     {
       "id": "4",
-      "ngayTL": "23/2/2018",
-      "lydo": 10,
+      "ngayTL": "2018-5-1",
+      "lydo": "Không còn dùng được nữa chớ chi =))",
       "soluong": 2,
       "image": "ban.png",
       "status": 1,
@@ -608,17 +653,17 @@
     },
     {
       "id": "5",
-      "ngayTL": "23/2/2018",
-      "lydo": 10,
+      "ngayTL": "2016-5-1",
+      "lydo": "Không còn dùng được nữa chớ chi =))",
       "soluong": 2,
-      "image": "ban.png",
+      "image": "maychieu.png",
       "status": 0,
       "id_taisan": "1"
     },
     {
       "id": "6",
-      "ngayTL": "23/2/2018",
-      "lydo": 10,
+      "ngayTL": "2016-11-12",
+      "lydo": "Không còn dùng được nữa chớ chi =))",
       "soluong": 2,
       "image": "ban.png",
       "status": 1,
@@ -626,10 +671,10 @@
     },
     {
       "id": "7",
-      "ngayTL": "23/2/2018",
-      "lydo": 10,
+      "ngayTL": "2018-5-1",
+      "lydo": "Không còn dùng được nữa chớ chi =))",
       "soluong": 12,
-      "image": "ban.png",
+      "image": "maychieu.png",
       "status": 1,
       "id_taisan": "3"
     }
