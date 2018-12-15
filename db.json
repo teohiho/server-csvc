@@ -3,37 +3,37 @@
     {
       "id": "1",
       "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==",
-      "title": "tittle",
-      "content": "Create RestController.js file under src directory with below content. Notice that you need to import the required module or component such as import React from ‘react’."
+      "title": "Sinh viên Khoa Kiến trúc đoạt giải Đồng tại cuộc thi Kiến trúc – Nhà thiết kế trẻ Châu Á",
+      "content": "Đây là cuộc thi hàng đầu khu vực Châu Á giành cho sinh viên ngành kiến trúc, nội thất, thu hút sự tham gia của 15 quốc gia trong khu vực. Hành trình AYDA đem lại cơ hội phát triển bản thân cho sinh viên qua thách thức trong từng vòng thi và bản thiết kế được hoàn thiện qua mỗi giai đoạn. Đội giành được quán quân tại Việt Nam sẽ cùng với quán quân các quốc gia trong châu lục tranh tài giải Bạch kim Châu lục."
     },
     {
       "id": "2",
       "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==",
-      "title": "tittle2",
-      "content": "Create RestController.js file under src directory with below content. Notice that you need to import the required module or component such as import React from ‘react’."
+      "title": "Sinh viên Khoa Kiến trúc đoạt giải Đồng tại cuộc thi Kiến trúc – Nhà thiết kế trẻ Châu Á",
+      "content": "Đây là cuộc thi hàng đầu khu vực Châu Á giành cho sinh viên ngành kiến trúc, nội thất, thu hút sự tham gia của 15 quốc gia trong khu vực. Hành trình AYDA đem lại cơ hội phát triển bản thân cho sinh viên qua thách thức trong từng vòng thi và bản thiết kế được hoàn thiện qua mỗi giai đoạn. Đội giành được quán quân tại Việt Nam sẽ cùng với quán quân các quốc gia trong châu lục tranh tài giải Bạch kim Châu lục."
     },
     {
       "id": "3",
       "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==",
-      "title": "tittle3",
-      "content": "Create RestController.js file under src directory with below content. Notice that you need to import the required module or component such as import React from ‘react’."
+      "title": "DUT thắng lớn trong kỳ thi OLP tin học sinh viên toàn quốc và kỳ thi ICPC Asia Hà Nội 2018",
+      "content": "Đội tuyển Trường Đại học Bách Khoa – ĐHĐN đã tham gia kỳ thi Olympic Tin học Sinh viên Việt Nam lần thứ 27 (OLP’18) và Kỳ thi lập trình sinh viên quốc tế ICPC Asia Hà Nội 2018 do Bộ Giáo dục và Đào tạo, Hội Tin học Việt Nam, Hội Sinh viên Việt Nam phối hợp tổ chức từ ngày 27 đến ngày 30/11/2018, tại Học viện Công nghệ Bưu chính Viễn thông Hà Nội."
     },
     {
       "id": "4",
       "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==",
-      "title": "json-server",
-      "content": "Create RestController.js file under src directory with below content. Notice that you need to import the required module or component such as import React from ‘react’."
+      "title": "DUT thắng lớn trong kỳ thi OLP tin học sinh viên toàn quốc và kỳ thi ICPC Asia Hà Nội 2018",
+      "content": "Đội tuyển Trường Đại học Bách Khoa – ĐHĐN đã tham gia kỳ thi Olympic Tin học Sinh viên Việt Nam lần thứ 27 (OLP’18) và Kỳ thi lập trình sinh viên quốc tế ICPC Asia Hà Nội 2018 do Bộ Giáo dục và Đào tạo, Hội Tin học Việt Nam, Hội Sinh viên Việt Nam phối hợp tổ chức từ ngày 27 đến ngày 30/11/2018, tại Học viện Công nghệ Bưu chính Viễn thông Hà Nội."
     },
     {
       "id": "5",
       "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==",
-      "title": "json-server",
-      "content": "Create RestController.js file under src directory with below content. Notice that you need to import the required module or component such as import React from ‘react’."
+      "title": "Sinh viên Khoa Cơ khí giao thông nhận học bổng Motul năm 2018",
+      "content": "Đến dự, về phía công ty Motul có ông Cao Hoài Nhân – Giám đốc Phòng Kỹ thuật và Sản phẩm công ty Motul Việt Nam, bà Nguyễn Thị Kim Liên – Giám đốc công ty Ân Điển, ông Nguyễn Huỳnh Hữu Thi – Giám đốc kinh doanh dầu động cơ khu vực miền Trung, ông Dương Tấn Hiệp – Giám sát kinh doanh dầu công nghiệp khu vực miền Trung; Về phía trường Đại học Bách khoa, ĐHĐN có sự tham dự của TS. Nguyễn Văn Đông – Trưởng phòng Công tác sinh viên, TS. Phạm Quốc Thái – Trưởng khoa Cơ khí Giao thông cùng các thầy cô là cán bộ giảng viên và hơn 50 sinh viên của Khoa."
     },
     {
       "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==",
-      "title": "Title-finnaly",
-      "content": "Content-teoteoteo",
+      "title": "Sinh viên Khoa Cơ khí giao thông nhận học bổng Motul năm 2018",
+      "content": "Đến dự, về phía công ty Motul có ông Cao Hoài Nhân – Giám đốc Phòng Kỹ thuật và Sản phẩm công ty Motul Việt Nam, bà Nguyễn Thị Kim Liên – Giám đốc công ty Ân Điển, ông Nguyễn Huỳnh Hữu Thi – Giám đốc kinh doanh dầu động cơ khu vực miền Trung, ông Dương Tấn Hiệp – Giám sát kinh doanh dầu công nghiệp khu vực miền Trung; Về phía trường Đại học Bách khoa, ĐHĐN có sự tham dự của TS. Nguyễn Văn Đông – Trưởng phòng Công tác sinh viên, TS. Phạm Quốc Thái – Trưởng khoa Cơ khí Giao thông cùng các thầy cô là cán bộ giảng viên và hơn 50 sinh viên của Khoa.",
       "id": "Ot~mJwt"
     }
   ],
@@ -579,8 +579,8 @@
     {
       "id": 4,
       "name": "Máy Chiếu Hòa Phát ",
-      "dongia": 8000000,
-      "soluong": 5,
+      "dongia": 4800000,
+      "soluong": 3,
       "ngaynhap": "2015-12-31",
       "hansudung": "2018-12-31",
       "ghichu": "okay",
@@ -609,8 +609,8 @@
     {
       "id": 6,
       "name": "Máy Chiếu Hòa Phát ",
-      "dongia": 10000000,
-      "soluong": 10,
+      "dongia": 5000000,
+      "soluong": 5,
       "ngaynhap": "2015-12-31",
       "hansudung": "2018-12-31",
       "ghichu": "okay",
@@ -950,6 +950,51 @@
       "id_phong": 20,
       "id_user": 1,
       "status": 1
+    },
+    {
+      "name": "Tu lanh",
+      "dongia": 210000,
+      "soluong": 21,
+      "ngaynhap": "1999-12-20",
+      "hansudung": "2065-01-21",
+      "ghichu": "okay",
+      "id_loaitaisan": 2,
+      "id_donvi": 3,
+      "id_kinhphi": 2,
+      "id_phong": null,
+      "id_user": 3,
+      "status": 1,
+      "id": 35
+    },
+    {
+      "id": 36,
+      "name": "Máy Chiếu Hòa Phát ",
+      "dongia": 5000000,
+      "soluong": 5,
+      "ngaynhap": "2015-12-31",
+      "hansudung": "2018-12-31",
+      "ghichu": "okay",
+      "id_loaitaisan": 2,
+      "id_donvi": 2,
+      "id_kinhphi": 1,
+      "id_phong": 0,
+      "id_user": 1,
+      "status": 1
+    },
+    {
+      "id": 37,
+      "name": "Máy Chiếu Hòa Phát ",
+      "dongia": 3200000,
+      "soluong": 2,
+      "ngaynhap": "2015-12-31",
+      "hansudung": "2018-12-31",
+      "ghichu": "okay",
+      "id_loaitaisan": 2,
+      "id_donvi": 3,
+      "id_kinhphi": 1,
+      "id_phong": 21,
+      "id_user": 1,
+      "status": 1
     }
   ],
   "chuyentaisan": [
@@ -992,6 +1037,22 @@
       "id_phong": 20,
       "id_donvi": 3,
       "id": 5
+    },
+    {
+      "ngayCTS": "2018-11-19",
+      "soluong": 5,
+      "id_taisan": 6,
+      "id_phong": 0,
+      "id_donvi": 2,
+      "id": 6
+    },
+    {
+      "ngayCTS": "2018-11-19",
+      "soluong": 2,
+      "id_taisan": 4,
+      "id_phong": 21,
+      "id_donvi": 3,
+      "id": 7
     }
   ],
   "thanhly": [
@@ -1095,6 +1156,18 @@
       "link": "/taisan",
       "count": 0,
       "id": 6
+    },
+    {
+      "name": "Tài sản Máy Chiếu Hòa Phát  được chuyển cho đơn vị 2 với số lượng 5 / 10",
+      "link": "/taisan",
+      "count": 0,
+      "id": 7
+    },
+    {
+      "name": "Tài sản Máy Chiếu Hòa Phát  được chuyển cho đơn vị 3 với số lượng 2 / 5",
+      "link": "/taisan",
+      "count": 0,
+      "id": 8
     }
   ]
 }
